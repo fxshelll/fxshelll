@@ -1,4 +1,4 @@
-<img width="1497" height="591" alt="image" src="https://github.com/user-attachments/assets/0a022a6b-3250-4c1b-8925-369a30ef027a" />![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
   <div align="center" >
 <a href="https://skillicons.dev"   >
